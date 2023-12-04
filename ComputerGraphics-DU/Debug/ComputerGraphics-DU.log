@@ -1,0 +1,19 @@
+﻿  drawutil3d.cpp
+C:\Users\wkgus0618\Desktop\Project2\Project2\drawutil3d.cpp(21,22): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\wkgus0618\Desktop\Project2\Project2\drawutil3d.cpp(31,23): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wkgus0618\Desktop\Project2\Project2\drawutil3d.cpp(41,35): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wkgus0618\Desktop\Project2\Project2\drawutil3d.cpp(42,35): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wkgus0618\Desktop\Project2\Project2\drawutil3d.cpp(49,21): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wkgus0618\Desktop\Project2\Project2\drawutil3d.cpp(52,37): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\wkgus0618\Desktop\Project2\Project2\drawutil3d.cpp(53,38): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\wkgus0618\Desktop\Project2\Project2\drawutil3d.cpp(62,23): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wkgus0618\Desktop\Project2\Project2\drawutil3d.cpp(72,35): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wkgus0618\Desktop\Project2\Project2\drawutil3d.cpp(73,35): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wkgus0618\Desktop\Project2\Project2\drawutil3d.cpp(277,18): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wkgus0618\Desktop\Project2\Project2\drawutil3d.cpp(286,22): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wkgus0618\Desktop\Project2\Project2\drawutil3d.cpp(287,22): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wkgus0618\Desktop\Project2\Project2\drawutil3d.cpp(288,22): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wkgus0618\Desktop\Project2\Project2\drawutil3d.cpp(292,83): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wkgus0618\Desktop\Project2\Project2\drawutil3d.cpp(293,38): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wkgus0618\Desktop\Project2\Project2\drawutil3d.cpp(302,14): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  Project2.vcxproj -> C:\Users\wkgus0618\Desktop\Project2\Debug\Project2.exe
